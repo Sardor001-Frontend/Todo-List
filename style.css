@@ -1,0 +1,109 @@
+h1{
+    font-size: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.add{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+}
+input{
+    width: 321px;
+    height: 42px;
+    border-radius: 10px;
+    border: 2px solid #007FFF;
+    padding-left: 10px;
+}
+.addbtn{
+    width: 155px;
+    height: 42px;
+    border-radius: 10px;
+    font-size: 18px;
+    color: white;
+    background-color: #007FFF;
+    border: none;
+    cursor: pointer;
+}
+.divs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 35px;
+    margin-top: 25px;
+}
+.task1{
+    width: 282px;
+    height: 90px;
+    border-radius: 10px;
+    border: 2px solid #007FFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.first{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.task2{
+    width: 282px;
+    height: 90px;
+    border-radius: 10px;
+    border: 2px solid #007FFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.task3{
+    width: 282px;
+    height: 90px;
+    border-radius: 10px;
+    border: 2px solid #007FFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.task4{
+    width: 282px;
+    height: 90px;
+    border-radius: 10px;
+    border: 2px solid #007FFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.otdelno{
+    display: flex;
+    align-items: center;
+    margin-left: 265px;
+    margin-top: 25px;
+}
+.krestik{
+    width: 13.33px;
+    height: 13.33px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border: none;
+}
+p{
+    font-size: 20px;
+    font-family: Gilroy;
+}
+i{
+    padding-bottom: 15px;
+}
+button{
+    cursor: pointer;
+}
