@@ -25,7 +25,7 @@ function addTask() {
     const deleteButton = document.createElement('button');
     deleteButton.className = 'delete-button';
     const deleteImg = document.createElement('img');
-    deleteImg.src = 'Group 14png.png';  // Path to your delete button image
+    deleteImg.src = 'Group 14png.png';  
     deleteButton.appendChild(deleteImg);
 
     deleteButton.addEventListener('click', () => {
